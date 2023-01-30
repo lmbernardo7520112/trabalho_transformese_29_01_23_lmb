@@ -78,3 +78,11 @@ a {
 	border-radius: 4em;
 	border-bottom: 1px solid #9799A6;
 }
+
+footer {
+	background-color: #F5F5DC;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }

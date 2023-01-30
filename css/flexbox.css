@@ -9,3 +9,23 @@
     display: flex;
     
 }
+
+.footer {
+    display: flex;
+    align-items:flex-start;
+    background-color: #F5F5DC; /* Beige color */
+    height: 50px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+  }
+  
+  .footer .favicon {
+    background-image: url(linkedin-favicon.png);
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+  }
